@@ -12,5 +12,3 @@ questionBtn.forEach(function (btn) {
     question.classList.toggle("show-text");
   });
 });
-
-console.log("teri maa ki chu");
